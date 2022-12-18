@@ -4,7 +4,7 @@
 <!-- <p align="center">
   <img src="https://github.com/emanuelaelli/Data_Management/blob/main/images/Loading.png" width="25%">
 </p> -->
-  <h6 align="center">a Data Management Project</h6>
+  <h6 align="center">a Data Science Lab Project</h6>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
@@ -50,8 +50,17 @@ For more information, there is a <a href="https://github.com/emanuelaelli/Data_M
   <a href = "https://github.com/f-madon"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
-&#8860; &nbsp; **Eleonora Rossi**
+&#8860; &nbsp; **Francesco Gregori**
 
 - *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
-- *Background*: Bachelor degree in Mathematics at Università degli Studi di Milano (UniMi). 
+<br>
+
+&#8860; &nbsp; **Armando Epifani**
+
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
+<br>
+
+&#8860; &nbsp; **Gloria Giorgetti**
+
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
 <br>
