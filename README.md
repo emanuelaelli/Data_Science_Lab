@@ -13,7 +13,7 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 
-
+University project aimed at studying user clicks on the web in order to create a model capable of identifying the degree of user interest in the topic in question. In addition, clicks suspected of fraud (i.e. non-clicks made directly by human users) were also studied.
 
 
 <a name="aboutus"></a>
